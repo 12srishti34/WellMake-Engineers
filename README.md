@@ -121,7 +121,7 @@ Keep sensitive configuration and API credentials in your local `.env` file.
 
 **Srishti Chadha**
 
-## 📌 Repository
+##  Repository
 
 [WellMake Engineers – GitHub](https://github.com/12srishti34/WellMake-Engineers)
 
