@@ -2,7 +2,7 @@
 
 A full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js 19
@@ -25,7 +25,7 @@ A full-stack web application built using the MERN stack (MongoDB, Express.js, Re
 - dotenv
 - PayPal Checkout SDK
 
-## ✨ Key Technologies & Capabilities
+##  Key Technologies & Capabilities
 
 - Full-stack MERN architecture
 - REST API development using Express.js
@@ -36,7 +36,7 @@ A full-stack web application built using the MERN stack (MongoDB, Express.js, Re
 - PDF generation and table export
 - Excel file handling using XLSX
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 WellMake-Engineers/
@@ -55,7 +55,7 @@ WellMake-Engineers/
 └── README.md
 ```
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Node.js and npm
@@ -111,17 +111,15 @@ cd frontend
 npm run build
 ```
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 Keep sensitive configuration and API credentials in your local `.env` file.
 
 **Never commit passwords, API keys, tokens, or other secrets to GitHub.**
 
-## 👩‍💻 Developer
+##  Developer
 
 **Srishti Chadha**
-
-GitHub: [12srishti34](https://github.com/12srishti34)
 
 ## 📌 Repository
 
