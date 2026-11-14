@@ -126,5 +126,3 @@ Keep sensitive configuration and API credentials in your local `.env` file.
 [WellMake Engineers – GitHub](https://github.com/12srishti34/WellMake-Engineers)
 
 ---
-
-⭐ Thanks for visiting WellMake Engineers!
