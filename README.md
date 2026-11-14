@@ -102,7 +102,7 @@ The React development server will start, usually at:
 http://localhost:3000
 ```
 
-## 🛠️ Build for Production
+##  Build for Production
 
 To create a production build of the frontend:
 
